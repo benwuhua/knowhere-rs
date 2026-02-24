@@ -1,0 +1,1 @@
+{"rustc":2833068300835136146,"features":"","declared_features":"","target":0,"profile":0,"path":0,"deps":[[12459520897166972514,"build_script_build",false,3962099223752928410]],"local":[{"RerunIfChanged":{"output":"debug/build/knowhere-rs-3e633cb3a30e477a/output","paths":["src/"]}}],"rustflags":[],"config":0,"compile_kind":0}
